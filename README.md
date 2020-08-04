@@ -10,7 +10,7 @@
 
 <h5> About the Lab (Objective) : </h5>
 
-This project is aimed at developing a web application and gathering knowledge about data manipulation. Data manipulation is a business operation and optimisation. Its main objective is to being able to transform, delete and update the data into a database.
+This project is aimed at developing a web application and gathering knowledge about data manipulation. Data manipulation is a business operation and optimisation. Its main objective is to be able to transform, delete and update the data into a database.
 
 <h5> About the Experiment : </h5>
 
@@ -21,8 +21,8 @@ Data manipulation is the process of changing data to make it easier to read or b
 <h5> Target Audience : </h5>
 
 Our target audience is -:
-*	who is more interested in practical and theoretical knowledge.
-*	10th, 12th and Bachelor Course Students 
+*	Students interested in enhancing theoretical as well as practical skills in data manipulation
+*	It is useful for 10th,12th Bachelor and Postgraduate Students.
 
 <h5> Course Alignment : </h5>
 
@@ -32,7 +32,7 @@ Master of Computer Application
 
 AKTU, Lucknow
 
-<b>Name of Developer | <b> Nand Kumar Mishra
+<b>Name of Developer | <b> Bit Legion
 :--|:--|
 <b> Institute | <b> Hindustan Institute of Management and Computer Studies
 <b> Email id|     <b> NK.Mishra@sgei.org
@@ -50,7 +50,7 @@ AKTU, Lucknow
 
 SrNo | Name | Faculty or Student | Department| Institute | Email id
 :--|:--|:--|:--|:--|:--|
-1 | Nand Kishore Mishra | Faculty | Master of Computer Application | Hindustan Institute of Management and Computer Studies, Mathura | NK.Mishra@sgei.org
+1 | Nand Kumar Mishra | Faculty | Master of Computer Application | Hindustan Institute of Management and Computer Studies, Mathura | NK.Mishra@sgei.org
 2 | Sarthak Jain | Student | Master of Computer Application | Hindustan Institute of Management and Computer Studies, Mathura |sarthakjain31797@gmail.com
 3 | Kirtee | Student | Master of Computer Application | Hindustan Institute of Management and Computer Studies, Mathura|Kirtiagrawal1998@gmail.com
 4 | Mansi saxena | Student | Master of Computer Application | Hindustan Institute of Management and Computer Studies, Mathura |Saxenamansi18@gmail.com
