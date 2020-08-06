@@ -29,7 +29,7 @@ we are also focusing on all the key factors which are necessary for the completi
 
 Sr. No |	Learning Objective	| Cognitive Level | Action Verb
 :--|:--|:--|:-:
-1.| Each team member can improve his/her skills and can enhance his/her knowledge  <br><br>  | [Remember](http://vlabs.iitb.ac.in/vlabs-dev/document.php) | [identify](http://vlabs.iitb.ac.in/vlabs-dev/document.php)
+1.| Students can improve his/her skills and can enhance his/her knowledge  <br><br>  | [Remember](http://vlabs.iitb.ac.in/vlabs-dev/document.php) | [identify](http://vlabs.iitb.ac.in/vlabs-dev/document.php)
 2.| One can understand the concept behind the project <br><br>  | [Undersatnd](http://vlabs.iitb.ac.in/vlabs-dev/document.php) | [Explain,Describe](http://vlabs.iitb.ac.in/vlabs-dev/document.php)
 3.| Learn to manage quality,timing while creating such projects <br> <br> | [Apply](http://vlabs.iitb.ac.in/vlabs-dev/document.php) | [Select,calculate ](http://vlabs.iitb.ac.in/vlabs-dev/document.php)
 4.| The project require language like html,css,Js etc. So,one can understand and learn the basic as well as the advanced concepts of these languages. <br> <br>  | [Analyse](http://vlabs.iitb.ac.in/vlabs-dev/document.php) | [Examine,Design](http://vlabs.iitb.ac.in/vlabs-dev/document.php)
@@ -49,7 +49,7 @@ Sr. No |	Learning Objective	| Cognitive Level | Action Verb
 
 <u> <b>Description: </b> of how you are going to implement the above Instructional Strategy in your Simulator: </u>
 <br>
- We will use expository method in our simulator as we already known about the result like- If we want to update a particular table than we already be knowing about the results.
+ We will use expository method in our simulator as we already known about the result like- If we want to update a particular table then we already be knowing about the results.
  Also we are using problem based strategy because sometime we are not familiar with the results.So by using this strategy one can find the solution for a particular problem statement.
 
 <br/>
@@ -67,11 +67,12 @@ Read the theory and comprehend the concepts related to the experiment. [LO1, LO2
 
 Sr. No |	Learning Objective	| Task to be performed by <br> the student  in the simulator | Assessment Questions as per LO & Task
 :--|:--|:--|:-:
-1.|Students will be able to understand the commands for data manipulation 	 <br> Next line here. |students observe the right commands and fire the query <br> student will perform | which of the following commands to change the row that already exists in table?<br><div align="left"> A.	INSERT <br> B.	UNION <br> C.	UPDATE <br> <b> D.	SELECT </b> </div><br>
-2.|Students will be able to understand how to modify in existing table <br> Next line here. |Select the right query for data manipulation like updating and deleting <br> student will perform |  You need to change the JOB_ID for bruce (Employee id 7389) to 'ACCOUNTANT'.which of the following statements will you fire? <br>
-<div align="left"> A. UPDATE employee SET job_id='ACCOUNTANT' WHERE employee_id=7389; <br> B. INSERT INTO EMPLOYEE(employee_id,first_name,job_id)VALUES(5100,'BRUCE','ACCOUNTANT'); <br> C.	UPDATE employee SET job_id='ACCOUNTANT' WHERE job_id='CLERK'; <br> <b> D. UDATE employee SET job_id='ACCOUNTANT'; </b></div> <br> (mark correct option as bold text)
-3.| Students can identify which commands are used for DML or not ? <br> Next line here. |Read from the theortical part and choose the right option.<br> student will perform | which of the following is not a data manipulating commands?<br><div align="left"> A.	delete <br> B.	truncate <br> C.	UPDATE <br> <b> D.	create </b></div> <br>
-4.| Students will be able to understand how to add the new row in existing table?	 <br>  |Add a new Row <br> student will perform |In SQL,which commands is used to add new row to the table?<br><div align="left"> A.	Alter table <br> B.	Add row<br> C.	insert <br> <b> D.	Append </b></div> <br>
+1.|Students will be able to understand the commands for data manipulation 	 <br>  |students observe the right commands and fire the query <br> student will perform | which of the following commands to change the row that already exists in table?
+<br> A.	INSERT <br> B.	UNION <br> C.	<strong>UPDATE</strong> <br>  D.	SELECT  <br>
+2.|Students will be able to understand how to modify in existing table <br>|Select the right query for data manipulation like updating and deleting <br> student will perform |  You need to change the JOB_ID for bruce (Employee id 7389) to 'ACCOUNTANT'.which of the following statements will you fire? <br> 
+<strong>A. UPDATE Employee SET job_id='ACCOUNTANT' WHERE employee_id=7389;</strong> <br> B. INSERT INTO EMPLOYEE(employee_id,first_name,job_id)VALUES(5100,'BRUCE','ACCOUNTANT'); <br> C.	UPDATE employee SET job_id='ACCOUNTANT' WHERE job_id='CLERK'; <br>D. UDATE employee SET job_id='ACCOUNTANT'; <br> 
+3.| Students can identify which commands are used for DML or not ? <br>  |Read from the theortical part and choose the right option.<br> student will perform | which of the following is not a data manipulating commands?<br> A.	delete <br> B.	truncate <br> C.	UPDATE <br> <strong> D.	create </strong> <br>
+4.| Students will be able to understand how to add the new row in existing table?	 <br> |<br> student will perform |In SQL,which commands is used to add new row to the table?<br> A.	Alter table <br> B.	Add row<br> <strong>C.	insert </strong><br>  D.	Append <br>
 
 
  <br>
@@ -95,7 +96,7 @@ or type the correct answer below the question.
 
 Sr.No | What Students will do? |	What Simulator will do?	| Purpose of the task
 :--|:--|:--|:--:
-1.| Student will click on Simulation tab <br> next line <br> next line | Simulator opens the experiment screen <br> next line  '  | Screen open to perform experiment
-2.|  If Student will Write some Data Mainpulation Query in Text-area <br> next line <br> next line | Similuator will perform the operation on the table based on the SQL Query  <br> next line  '  | To Manipulate the Table Data.
-3.| If the Student will fill Wrong Query <br> next line <br> next line | It will show the Error <br> next line  '  | We can change the query as per the Error.
-4.| If Student will write 'select' query <br> next line <br> next line | Simulator will display the whole table <br> next line  '  | According to the table,students are able to manipulate the table if required.
+1.| Student will click on Simulation tab <br> <br> | Simulator opens the experiment screen <br>   | Screen open to perform experiment
+2.|  If Student will Write some Data Mainpulation Query in Text-area <br> <br> | Similuator will perform the operation on the table based on the SQL Query  <br> | To Manipulate the Table Data.
+3.| If the Student will fill Wrong Query <br><br>| It will show the Error <br>  | We can change the query as per the Error.
+4.| If Student will write 'select' query <br>  <br> | Simulator will display the whole table <br>   | According to the table,students are able to manipulate the table if required.
