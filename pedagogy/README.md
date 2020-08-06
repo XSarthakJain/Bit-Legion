@@ -67,13 +67,13 @@ Read the theory and comprehend the concepts related to the experiment. [LO1, LO2
 
 Sr. No |	Learning Objective	| Task to be performed by <br> the student  in the simulator | Assessment Questions as per LO & Task
 :--|:--|:--|:-:
-<div align="left">
-1.|Students will be able to understand the commands for data manipulation 	 <br> Next line here. |students observe the right commands and fire the query <br> student will perform | which of the following commands to change the row that already exists in table?<br> A.	INSERT <br> B.	UNION <br> C.	UPDATE <br> <b> D.	SELECT </b> <br>
-2.|Students will be able to understand how to modify in existing table <br> Next line here. |Select the right query for data manipulation like updating and deleting <br> student will perform |  You need to change the JOB_ID for bruce (Employee id 7389) to 'ACCOUNTANT'.which of the following statements will you fire? <br> A. UPDATE employee SET job_id='ACCOUNTANT' WHERE employee_id=7389; <br> B. INSERT INTO EMPLOYEE(employee_id,first_name,job_id)VALUES(5100,'BRUCE','ACCOUNTANT'); <br> C.	UPDATE employee SET job_id='ACCOUNTANT' WHERE job_id='CLERK'; <br> <b> D. UDATE employee SET job_id='ACCOUNTANT'; </b> <br> (mark correct option as bold text)
-3.| Students can identify which commands are used for DML or not ? <br> Next line here. |Read from the theortical part and choose the right option.<br> student will perform | which of the following is not a data manipulating commands?<br> A.	delete <br> B.	truncate <br> C.	UPDATE <br> <b> D.	create </b> <br>
-4.| Students will be able to understand how to add the new row in existing table?	 <br> Next line here. |Add a new Row <br> student will perform |In SQL,which commands is used to add new row to the table?<br> A.	Alter table <br> B.	Add row<br> C.	insert <br> <b> D.	Append </b> <br>
+1.|Students will be able to understand the commands for data manipulation 	 <br> Next line here. |students observe the right commands and fire the query <br> student will perform | which of the following commands to change the row that already exists in table?<br><div align="left"> A.	INSERT <br> B.	UNION <br> C.	UPDATE <br> <b> D.	SELECT </b> </div><br>
+2.|Students will be able to understand how to modify in existing table <br> Next line here. |Select the right query for data manipulation like updating and deleting <br> student will perform |  You need to change the JOB_ID for bruce (Employee id 7389) to 'ACCOUNTANT'.which of the following statements will you fire? <br>
+<div align="left"> A. UPDATE employee SET job_id='ACCOUNTANT' WHERE employee_id=7389; <br> B. INSERT INTO EMPLOYEE(employee_id,first_name,job_id)VALUES(5100,'BRUCE','ACCOUNTANT'); <br> C.	UPDATE employee SET job_id='ACCOUNTANT' WHERE job_id='CLERK'; <br> <b> D. UDATE employee SET job_id='ACCOUNTANT'; </b></div> <br> (mark correct option as bold text)
+3.| Students can identify which commands are used for DML or not ? <br> Next line here. |Read from the theortical part and choose the right option.<br> student will perform | which of the following is not a data manipulating commands?<br><div align="left"> A.	delete <br> B.	truncate <br> C.	UPDATE <br> <b> D.	create </b></div> <br>
+4.| Students will be able to understand how to add the new row in existing table?	 <br>  |Add a new Row <br> student will perform |In SQL,which commands is used to add new row to the table?<br><div align="left"> A.	Alter table <br> B.	Add row<br> C.	insert <br> <b> D.	Append </b></div> <br>
 
-</div>
+
  <br>
 
  <!-- <u> 
