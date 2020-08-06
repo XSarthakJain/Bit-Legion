@@ -1,8 +1,7 @@
 ## Pedagogy (Round 1)
 <p align="center">
 
-Remove this line before submitting : To Refer a filled sample of this template visit here : <br> http://vlabs.iitb.ac.in/gitlab/Community-Docs/New-Lab-development/Samples
-<br>
+
 <br>
 <b> Experiment Manipulating data Lab  <a name="top"></a> <br>
 </p>
@@ -29,8 +28,8 @@ we are also focusing on all the key factors which are necessary for the completi
 
 Sr. No |	Learning Objective	| Cognitive Level | Action Verb
 :--|:--|:--|:-:
-1.| Each team member can improve his/her skills and can enhance his/her knowledge  <br><br>  | [Remember](http://vlabs.iitb.ac.in/vlabs-dev/document.php) | [identify](http://vlabs.iitb.ac.in/vlabs-dev/document.php)
-2.| One can understand the concept behind the project <br><br>  | [Undersatnd](http://vlabs.iitb.ac.in/vlabs-dev/document.php) | [Explain,Describe](http://vlabs.iitb.ac.in/vlabs-dev/document.php)
+1.| Students can improve his/her skills and can enhance his/her knowledge  <br><br>  | [Remember](http://vlabs.iitb.ac.in/vlabs-dev/document.php) | [identify](http://vlabs.iitb.ac.in/vlabs-dev/document.php)
+2.| One can understand the concept behind the project <br><br>  | [Understand](http://vlabs.iitb.ac.in/vlabs-dev/document.php) | [Explain,Describe](http://vlabs.iitb.ac.in/vlabs-dev/document.php)
 3.| Learn to manage quality,timing while creating such projects <br> <br> | [Apply](http://vlabs.iitb.ac.in/vlabs-dev/document.php) | [Select,calculate ](http://vlabs.iitb.ac.in/vlabs-dev/document.php)
 4.| The project require language like html,css,Js etc. So,one can understand and learn the basic as well as the advanced concepts of these languages. <br> <br>  | [Analyse](http://vlabs.iitb.ac.in/vlabs-dev/document.php) | [Examine,Design](http://vlabs.iitb.ac.in/vlabs-dev/document.php)
 
@@ -47,7 +46,7 @@ Sr. No |	Learning Objective	| Cognitive Level | Action Verb
 ###### Name of Instructional Strategy  :    <u> Problem Based,Expository
 ###### Assessment Method: As per handout
 
-<u> <b>Description: </b> of how you are going to implement the above Instructional Strategy in your Simulator: </u>
+<u> <b>Description: </b>  </u>
 <br>
  We will use expository method in our simulator as we already known about the result like- If we want to update a particular table then we already be knowing about the results.
  Also we are using problem based strategy because sometime we are not familiar with the results.So by using this strategy one can find the solution for a particular problem statement.
