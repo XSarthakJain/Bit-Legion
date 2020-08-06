@@ -63,20 +63,26 @@ Sr. No |	Learning Objective	| Cognitive Level | Action Verb
 #### 4. Task & Assessment Questions:
 
 Read the theory and comprehend the concepts related to the experiment. [LO1, LO2, LO3]
+<div align="left">
 <br>
 
 Sr. No |	Learning Objective	| Task to be performed by <br> the student  in the simulator | Assessment Questions as per LO & Task
 :--|:--|:--|:-:
 1.|Students will be able to understand the commands for data manipulation 	 <br>  |students observe the right commands and fire the query <br> student will perform | which of the following commands to change the row that already exists in table?<br> A.	INSERT <br> B.	UNION <br> C.	UPDATE <br> <b> D.	SELECT </b> <br>
-2.|Students will be able to understand how to modify in existing table <br>  |Select the right query for data manipulation like updating and deleting <br> student will perform |  You need to change the JOB_ID for bruce (Employee id 7389) to 'ACCOUNTANT'.which of the following statements will you fire? <br> A. UPDATE employee SET job_id='ACCOUNTANT' WHERE employee_id=7389; <br> B. INSERT INTO EMPLOYEE(employee_id,first_name,job_id)VALUES(5100,'BRUCE','ACCOUNTANT'); <br> C.	UPDATE employee SET job_id='ACCOUNTANT' WHERE job_id='CLERK'; <br> <b> D. UDATE employee SET job_id='ACCOUNTANT'; </b> <br> (mark correct option as bold text)
+2.|Students will be able to understand how to modify in existing table <br>  |Select the right query for data manipulation like updating and deleting 
+<br> student will perform |  You need to change the JOB_ID for bruce (Employee id 7389) to 'ACCOUNTANT'.which of the following statements will you fire? <br>
+<b> A. UPDATE employee SET job_id='ACCOUNTANT' WHERE employee_id=7389; </b><br> 
+ B. INSERT INTO EMPLOYEE(employee_id,first_name,job_id)VALUES(5100,'BRUCE','ACCOUNTANT'); <br> 
+ C.	UPDATE employee SET job_id='ACCOUNTANT' WHERE job_id='CLERK'; <br>  
+ D. UDATE employee SET job_id='ACCOUNTANT';  <br> 
 3.| Students can identify which commands are used for DML or not ? <br> |Read from the theortical part and choose the right option.<br> student will perform | which of the following is not a data manipulating commands?<br> A.	delete <br> B.	truncate <br> C.	UPDATE <br> <b> D.	create </b> <br>
 4.| Students will be able to understand how to add the new row in existing table?	 <br>  |Add a new Row <br> student will perform |In SQL,which commands is used to add new row to the table?<br> A.	Alter table <br> B.	Add row<br> C.	insert <br> <b> D.	Append </b> <br>
 
 
  <br>
-
- <u> 
-<!-- You can add more question. All questions may not be as MCQ
+</div>
+ <!-- <u> 
+You can add more question. All questions may not be as MCQ
 Please add the correct answer as well.
 or type the correct answer below the question.
  	You can add additional TASKS & Assessment Questions <u>
