@@ -1,0 +1,176 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Data Manipulation</title>
+
+	<link rel="stylesheet" type="text/css" href="css\Data_Manipuation_Similuator.css">
+</head>
+<body>
+
+<div>
+		<!--Header  -->
+		<header>
+			<h4>Manipulation of Data</h4>
+		</header>
+		<!-- Main Content -->
+		<div id="leftDiv">
+			<p>Tables</p><br>
+			<p onclick="VisibleStudentsTable()">.....> Students</p>
+			<p title="int">&nbsp;&nbsp;&nbsp;&nbsp;.....> Students Id </p>
+			<p title="varchar2">&nbsp;&nbsp;&nbsp;&nbsp;.....> Name</p>
+			<p title="varchar2">&nbsp;&nbsp;&nbsp;&nbsp;.....> Course</p>
+			<p title="varchar2">&nbsp;&nbsp;&nbsp;&nbsp;.....> Gender</p>
+			<p title="varchar2">&nbsp;&nbsp;&nbsp;&nbsp;.....> Email</p>
+
+
+		</div>
+
+		<section class="MiddlePlace">
+			<textarea id="queryPlace"></textarea>
+			
+			<button onclick="querySubmit()">Query</button>
+
+
+			<div id="outputDiv">
+				<p>Query Executed</p>
+			</div>
+
+			<div id="describeTable">
+				<center>
+				<table border="1">
+					<tr>
+						<th>Field</th>
+						<th>Type</th>
+						<th>Null</th>
+						<th>Key</th>
+						<th>Default</th>
+						<th>Extra</th>
+					</tr>
+
+					<tr>
+						<td>Students Id</td>
+						<td>Int</td>
+						<td>YES</td>
+						<td>PRI</td>
+						<td>NULL</td>
+						<td></td>
+					</tr>
+
+					<tr>
+						<td>Name</td>
+						<td>Varchar(50)</td>
+						<td>YES</td>
+						<td></td>
+						<td>NULL</td>
+						<td></td>
+					</tr>
+
+					<tr>
+						<td>Course</td>
+						<td>Varchar(20)</td>
+						<td>YES</td>
+						<td></td>
+						<td>NULL</td>
+						<td></td>
+					</tr>
+
+					<tr>
+						<td>Gender</td>
+						<td>Varchar(10)</td>
+						<td>YES</td>
+						<td></td>
+						<td>NULL</td>
+						<td></td>
+					</tr>
+
+					<tr>
+						<td>Email</td>
+						<td>Varchar(25)</td>
+						<td>YES</td>
+						<td></td>
+						<td>NULL</td>
+						<td></td>
+					</tr>
+
+
+				</table>
+			</center>
+
+			</div>
+
+		</section>
+
+
+		<!-- Footer -->
+</div>
+
+
+<div id="popUp">
+	<h1 onclick="HideStudentsTable()">X</h1>
+	<h4> Students</h4>
+	<!-- Table -->
+	<center>
+	<table border="1">
+
+
+		<tr>
+			<th>Student Id</th>
+			<th>Name</th>
+			<th>Course</th>
+			<th>Gender</th>
+			<th>Email</th>
+		</tr>
+
+		<tr>
+			<td>1</td>
+			<td>N.K Mishra</td>
+			<td>MCA</td>
+			<td>Male</td>
+			<td>NK.Mishra@sgei.ord</td>
+		</tr>
+
+		
+		<tr>
+			<td>2</td>
+			<td>Kirtee</td>
+			<td>MCA</td>
+			<td>Female</td>
+			<td>kirtee@sgei.org</td>
+		</tr>
+
+		<tr>
+			<td>3</td>
+			<td>Mansi Saxcena</td>
+			<td>MCA</td>
+			<td>Female</td>
+			<td>Mansi@gmail.com</td>
+		</tr>
+
+		<tr>
+			<td>4</td>
+			<td>Anchal Singh</td>
+			<td>MCA</td>
+			<td>Female</td>
+			<td>AnchalSingh@gmail.com</td>
+		</tr>
+
+		<tr>
+			<td>2</td>
+			<td>sarthak JAIN</td>
+			<td>MCA</td>
+			<td>Male</td>
+			<td>sarthakjain31797@gmail.com</td>
+		</tr>
+
+
+	</table>
+</center>
+
+</div>
+
+
+
+</body>
+
+<script type="text/javascript" src="js/Data_Manipuation_Similuator.js"></script>
+</html>

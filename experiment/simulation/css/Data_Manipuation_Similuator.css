@@ -1,0 +1,107 @@
+*{
+	padding:0;
+	margin:0;
+	box-sizing: border-box;
+}
+
+body{
+	background:#E9ECEF;
+	width:100vw;
+	height:100vh;
+}
+
+header{
+	color:grey;
+	text-align: center;
+	padding:2em;
+
+}
+
+.MiddlePlace
+{
+	width:60%;
+	min-height:80vh;
+	border:2px solid grey;
+	justify-content: center;
+	align-items: center;
+	position: fixed; /* or absolute */
+	top: 10%;
+	left: 20%;
+	padding:-bottom:2%;
+}
+
+textarea{
+	padding:2%;
+	margin:2%;
+	width:95%;
+	height:40vh;
+	justify-content: center;
+	align-content: center;
+}
+
+#leftDiv
+{
+	color:grey;
+	position: fixed; /* or absolute */
+	top: 10%;
+	left: 5%;
+	cursor: pointer;
+}
+
+.MiddlePlace button{
+
+	background:red;
+	padding:2%;
+	margin:0 2%;
+	width:95%;
+	color:white;
+	outline:none;
+	border:none;
+}
+
+#popUp
+{
+	width:50%;
+	
+	position: fixed;
+	top:35%;
+	left:25%;
+	border:2px solid grey;
+	background:#fff;
+	display: none;
+	z-index: 9999;
+	overflow-x:scroll;
+	
+}
+
+
+#popUp h1
+{
+	font-size: large;
+	text-align: right;
+	color:grey;
+	
+	padding-right:25px;
+	cursor: pointer;
+	
+}
+
+#popUp h4{
+	border-left:4px solid rgba(0,150,136,1);
+	padding:8px;
+	margin:8px;
+}
+tr{
+	border:none;
+}
+
+#outputDiv p{
+	color:red;
+	margin:2%;
+	font-size: small;
+
+}
+
+#describeTable{
+	display:none;
+}
